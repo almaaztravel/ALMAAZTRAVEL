@@ -1,0 +1,1 @@
+AL MAAZ flight-search homepage. Upload index.html to the root of a new GitHub Pages repository. Search submits the enquiry to WhatsApp +91 77389 94411; it is not connected to live GDS/airline inventory or booking.
